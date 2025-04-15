@@ -49,7 +49,7 @@ edges = [
 
 # === AGraph Configuration ===
 config = Config(
-    width=2000,
+    width=1100,
     height=1000,
     directed=True,
     physics=False,  # Tetap stabil (non-draggable)
